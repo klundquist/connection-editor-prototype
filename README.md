@@ -15,4 +15,4 @@ npm run dev
 ```
 
 ## Demo
-[![Demo Video](https://tella.tv/thumbnails/[video-id])](https://www.tella.tv/video/karls-video-ajff)
+[Demo Video](https://www.tella.tv/video/karls-video-ajff)
