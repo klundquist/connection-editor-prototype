@@ -1,23 +1,18 @@
-# React + Vite
+# Metaframe Connections Editor Prototype
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React Flow-based prototype for managing connetions between metaframe nodes in a visual editor. Built as a proof of concept for Metapages integration.
 
-Currently, two official plugins are available:
+## Features
+- Visual node-based interface using React Flow
+- Live iframe preview within nodes
+- Dynamic input/output connections
+- Collapsible nodes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+```bash
+npm install
+npm run dev
+```
 
-
-This project was created with 
-
-npm create vite@latest my-flow-project -- --template react
-
-cd my-flow-project
-
-npm install reactflow
-
-npm install -D tailwindcss postcss autoprefixer
-
-
-
-
+## Demo
+[Demo Video](https://www.tella.tv/video/karls-video-ajff)
