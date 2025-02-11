@@ -12,6 +12,7 @@ A React Flow-based prototype for managing connetions between metaframe nodes in 
 ```bash
 npm install
 npm run dev
+```
 
-
-https://www.tella.tv/video/karls-video-ajff
+## Demo
+[demo video](https://www.tella.tv/video/karls-video-ajff)
